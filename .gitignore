@@ -1,0 +1,14 @@
+packages/
+CorporatePaymentApplication.Repository/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+CorporatePaymentApplication.Repository/obj/
+CorporatePaymentApplication.WinForms/obj/
+CorporatePaymentApplication.Repository/bin/
+CorporatePaymentApplication.WinForms/bin/
+CorporatePaymentApplication.Common/obj/
+CorporatePaymentApplication.Common/bin/
+CorporatePaymentApplication.ApplicationLogic/obj/
+CorporatePaymentApplication.ApplicationLogic/bin/
+CorporatePaymentApplication.API/obj/
+CorporatePaymentApplication.API/bin/
+CorporatePaymentApplication.Mvc/bin/
+CorporatePaymentApplication.Mvc/obj/
