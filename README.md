@@ -1,4 +1,4 @@
-# corporate.payment.application
+# Corporate Payment Application
 
 API should return Corporate Payments
 
